@@ -7,9 +7,9 @@
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.AssemblyInfoInputs.cache
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.AssemblyInfo.cs
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.csproj.CoreCompileInputs.cache
+/home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.sourcelink.json
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.dll
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/refint/algorithms-data-structures.dll
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.pdb
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.genruntimeconfig.cache
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/ref/algorithms-data-structures.dll
-/home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.sourcelink.json
