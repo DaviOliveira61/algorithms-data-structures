@@ -12,3 +12,4 @@
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.pdb
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.genruntimeconfig.cache
 /home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/ref/algorithms-data-structures.dll
+/home/davi-oliver/dev/csharp/algorithms-data-structures/obj/Debug/net8.0/algorithms-data-structures.sourcelink.json
