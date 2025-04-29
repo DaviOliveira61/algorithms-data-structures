@@ -29,8 +29,16 @@ if (result != -1)
 else
     Console.WriteLine("Target not found!"); */
 
+ListNode head = new(1);
+head.Next = new(2);
+head.Next.Next = new(3);
+head.Next.Next.Next = new(4);
+head.Next.Next.Next.Next = new(5);
 
+Console.WriteLine("Original List:");
+SinglyLinkedListReversal.PrintList(head);
 
-
-
+Console.WriteLine("Reversed List:");
+head = SinglyLinkedListReversal.ReverseList(head);
+SinglyLinkedListReversal.PrintList(head);
 Console.ReadKey();
