@@ -2,7 +2,7 @@ using DataStructures;
 using Algorithms;
 
 Console.Clear();
-
+// DATA STRUCTURES 
 // RemoveDuplicatedCharsString removeDuplicatedCharsString = new();
 // removeDuplicatedCharsString.Run();
 
@@ -10,6 +10,7 @@ Console.Clear();
 //IsAnagrams isAnagrams = new();
 //isAnagrams.Run();
 
+// ALGORITHMS
 // Fibonacci number
 //Console.WriteLine(Fibonacci.Calculate(30));
 
@@ -29,6 +30,7 @@ if (result != -1)
 else
     Console.WriteLine("Target not found!"); */
 
+/* SinglyLinkedListReversal
 ListNode head = new(1);
 head.Next = new(2);
 head.Next.Next = new(3);
@@ -40,5 +42,24 @@ SinglyLinkedListReversal.PrintList(head);
 
 Console.WriteLine("Reversed List:");
 head = SinglyLinkedListReversal.ReverseList(head);
-SinglyLinkedListReversal.PrintList(head);
+SinglyLinkedListReversal.PrintList(head); */
+
+/*
+* Floyd's Cycle Detection Algorithm, also known as the "tortoise and hare" algorithm, 
+* is a popular algorithm used to detect cycles in a linked list or any cyclic sequence. 
+* It's particularly efficient in terms of both time and space complexity.
+*/
+/*
+var a = new ListNode(1);
+var b = new ListNode(2);
+var c = new ListNode(3);
+var d = new ListNode(4);
+
+a.Next = b;
+b.Next = c;
+c.Next = d;
+//d.Next = b;
+
+Console.WriteLine(FloydCycleDetectionAlgorithm.HasCycle(a)); */
+
 Console.ReadKey();
