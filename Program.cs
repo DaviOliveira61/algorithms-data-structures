@@ -62,4 +62,12 @@ c.Next = d;
 
 Console.WriteLine(FloydCycleDetectionAlgorithm.HasCycle(a)); */
 
+/*
+* Kadane's Algorithm is an efficient algorithm used to find the maximum subarray sum within a given array of integers. 
+* It is particularly useful for solving problems related to maximum subarray sum in linear time complexity.
+*/
+
+int[] arr = { -4, -2, -1, 2, -4, -5, 5 };
+Console.WriteLine($"Maximum sum subarray {Kadane.MaxSum(arr)}");
+
 Console.ReadKey();
